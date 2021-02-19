@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/map.json#start_lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
